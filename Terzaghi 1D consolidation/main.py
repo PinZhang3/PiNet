@@ -75,8 +75,8 @@ class PiNet:
         self.optimizer_LBFGS = tf.contrib.opt.ScipyOptimizerInterface(self.loss,
                              var_list = self.weights + self.biases,
                              method = 'L-BFGS-B',
-                             options = {'maxiter': 10000,
-                                        'maxfun': 10000,
+                             options = {'maxiter': 20000,
+                                        'maxfun': 20000,
                                         'maxcor': 100,
                                         'maxls': 100,
                                         'gtol': 1e-03})
