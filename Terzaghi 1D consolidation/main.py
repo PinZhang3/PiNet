@@ -1,3 +1,17 @@
+# ----------------------------------------------------------------------
+# Project Name: PiNet - Prior Information based NEural neTwork
+# Description : A physics informed learning based framework for constitutive modelling and BVPs
+# Author      : Pin ZHANG, National University of Singapore
+# Contact     : pinzhang@nus.edu.sg
+# Created On  : 4 Dec 2024
+# Repository  : https://github.com/PinZhang3/PiNet
+# ----------------------------------------------------------------------
+# Notes:
+# This library is under active development. Contributions are welcome!
+# Copyright belongs to Pin ZHANG and use of this code for commercial applications or
+# profit-driven ventures requires explicit permission from the author(s)
+# ----------------------------------------------------------------------
+
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
