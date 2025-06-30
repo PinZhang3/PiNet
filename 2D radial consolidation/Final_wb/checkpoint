@@ -1,0 +1,3 @@
+model_checkpoint_path: "paras_NN_z.ckpt"
+all_model_checkpoint_paths: "..\\Ini_wb\\NN_wb_ini_z.ckpt"
+all_model_checkpoint_paths: "paras_NN_z.ckpt"
