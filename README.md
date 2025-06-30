@@ -1,7 +1,7 @@
 Prior Information based NEural neTwork (PiNet) is tailored for constitutive modelling and solving partial differential equations in soil mechanics and geotechnical engineering.
 Papers can be found below:
 
-2D radial consolidation:
+2D radial consolidation:  
 [Zhang P, Sheil B, Girolami, M, Yaji, K, Yin ZY, 2025. A novel consolidation analysis framework: universal function approximators regularized by physical principles. Canadian Geotechnical Journal, 62, 1–17](https://cdnsciencepub.com/doi/abs/10.1139/cgj-2023-0567)
 
 Stress Integration:  
