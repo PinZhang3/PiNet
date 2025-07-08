@@ -1,3 +1,5 @@
+If you are using our code in your research or studies, or if our work has inspired your own, we kindly ask that you cite the references listed below. Your citation is a great encouragement for us to continue developing and sharing open-source tools. Also, you can click the 'star' in the top right corner, letting us know our work is helpful.
+
 Prior Information based NEural neTwork (PiNet) is tailored for constitutive modelling and solving partial differential equations in soil mechanics and geotechnical engineering.
 Papers can be found below:
 
