@@ -3,7 +3,7 @@ If you are using our code in your research or studies, or if our work has inspir
 Prior Information based NEural neTwork (PiNet) is tailored for constitutive modelling and solving partial differential equations in soil mechanics and geotechnical engineering.
 Papers can be found below:
 
-Hyperplasticity
+Hyperplasticity:  
 [Zhang P, Karapiperis K, Weeger O, 2025. t-PiNet: A thermodynamics-informed hierarchical learning for discovering constitutive relations of geomaterials. Journal of the Mechanics and Physics of Solids, 197, 106049](https://www.sciencedirect.com/science/article/abs/pii/S0022509625000250)
 
 2D radial consolidation:  
