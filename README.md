@@ -3,6 +3,12 @@ If you are using our code in your research or studies, or if our work has inspir
 Prior Information based NEural neTwork (PiNet) is tailored for constitutive modelling and solving partial differential equations in soil mechanics and geotechnical engineering.
 Papers can be found below:
 
+Cavity Expansion:
+[Chen XX, Zhang P, Yu HS, Yin ZY, Sheil B, 2025. Parsimonious universal function approximator for elastic and elasto-plastic cavity expansion problems, Journal of Geotechnical and Geoenvironmental Engineering-ASCE, 151(9): 04025093](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-13267)
+
+Footing (Deep Ritz Method):  
+[Chen XX, Zhang P, Yin ZY, 2025. A comprehensive investigation of physics-informed learning in forward and inverse analysis of elastic and elastoplastic footing, Computers and Geotechnics, 181, 107110](https://www.sciencedirect.com/science/article/abs/pii/S0266352X2500059X)
+
 Hyperplasticity:  
 [Zhang P, Karapiperis K, Weeger O, 2025. t-PiNet: A thermodynamics-informed hierarchical learning for discovering constitutive relations of geomaterials. Journal of the Mechanics and Physics of Solids, 197, 106049](https://www.sciencedirect.com/science/article/abs/pii/S0022509625000250)
 
